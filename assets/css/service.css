@@ -134,3 +134,13 @@ footer {
 .card-body {
     flex-grow: 1; /* Ensures body fills available space */
 }
+.contact-header {
+            background-color: #FFA500;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .form-container {
+            max-width: 600px;
+            margin: 20px auto;
+        }
