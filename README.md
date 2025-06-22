@@ -62,7 +62,7 @@ Selama proses pengembangan proyek ini, AI **IBM Granite** digunakan sebagai alat
 
 ## 🔗 Deployment
 
-> 🌐 Live demo: [https://diantarexpress.vercel.app](#)
+> 🌐 Live demo: [https://diantar.vercel.app/](#)
 
 ---
 
@@ -109,5 +109,5 @@ Project ini dikembangkan untuk keperluan pembelajaran dalam program **IBM Studen
 
 ## 🙋‍♂️ Author
 
-**Hidayat RPL**  
+**Hidayat**  
 [GitHub - @hidayatrpl](https://github.com/hidayatrpl)
