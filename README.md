@@ -35,6 +35,7 @@ Tidak diperlukan setup backend atau server lokal. Cukup buka file `index.html` d
 ### Langkah Menjalankan Secara Lokal
 
 1. Clone repository:
+
    ```bash
    git clone https://github.com/hidayatrpl/DiantarExpress.git
    cd DiantarExpress
@@ -61,8 +62,7 @@ Selama proses pengembangan proyek ini, AI **IBM Granite** digunakan sebagai alat
 
 ## 🔗 Deployment
 
-> 🌐 Live demo: [https://diantarexpress.vercel.app](#)  
-> _(Silakan ganti dengan link asli setelah deployment)_
+> 🌐 Live demo: [https://diantarexpress.vercel.app](#)
 
 ---
 
@@ -71,12 +71,20 @@ Selama proses pengembangan proyek ini, AI **IBM Granite** digunakan sebagai alat
 ```
 DiantarExpress/
 ├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
+├── about.html
+├── contact-us.html
+├── order.html
+├── service.html
+├── tracking.html
 ├── assets/
-│   └── images/
+│   └── img/
+│   └── css/
+│       └── main.css
+│       └── servie.css
+│   └── favicon/
+│   └── js/
+│       └── script.js
+│   └── vendor/
 ```
 
 ---
